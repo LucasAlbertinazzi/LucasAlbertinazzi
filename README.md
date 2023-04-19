@@ -1,33 +1,43 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+# Lucas Albertinazzi
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasAlbertinazzi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Albertinazzi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlbertinazzi&layout=demo&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+## Informações Pessoais
 
-### Main skills:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.net&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+- Idade: 24 anos
+- Graduação: Análise e Desenvolvimento de Sistemas
+- Experiência Profissional: 2 anos como Desenvolvedor Junior
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+## Habilidades
 
-### Other Knowledge:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+- C#
+- .NET Framework
+- XAML/WPF
+- Blazor
+- Xamarin
+- API REST
+- HTML
+- CSS
+- JS
+- SQL e PostgreSQL
 
-<div align="left">  
-  <a href="https://instagram.com/lucasalbertinazzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-albertinazzi-87220b1b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Gráficos de commits e Linguagens mais utilizadas
 
+*Gráfico de Commits:*
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+![Gráfico de Commits](https://github-readme-stats.vercel.app/api?username=LucasAlbertinazzi&show_icons=true&theme=radical)
+
+*Linguagens mais utilizadas:*
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlbertinazzi&hide=php&layout=compact&theme=radical)
+
+## Projetos
+
+- Web: Desenvolvimento e manutenção de aplicações web utilizando ASP.NET, HTML, CSS, JavaScript e SQL.
+- Desktop: Desenvolvimento e manutenção de aplicativos desktop em C# e XAML/WPF com foco na usabilidade e eficiência do sistema.
+- Mobile: Desenvolvimento de aplicativos móveis nativos ou multiplataforma com Xamarin e .NET MAUI com foco em alta qualidade e usabilidade.
+- Full-stack: Desenvolvimento de soluções completas que incluem componentes front-end e back-end usando ASP.NET, SQL, HTML, CSS, JavaScript, APIs REST e outros recursos.
+
+## Funções
+
+- Front-end: Desenvolvimento de interfaces de usuário atraentes e responsivas usando HTML, CSS e XAML/WPF.
+- Back-end: Desenvolvimento de sistemas de gerenciamento de banco de dados e APIs REST, usando linguagens como C# e SQL.
+- Sustentação de sistema: Resolução de problemas em sistemas existentes, correção de erros e melhoria de desempenho, atendimento a chamados de suporte, solução de problemas de usuários e criação de manuais de usuário.
