@@ -2,7 +2,7 @@
 
 ## Informações Pessoais
 
-- Idade: 24 anos
+- Idade: 25 anos
 - Graduação: Análise e Desenvolvimento de Sistemas
 - Experiência Profissional: 2 anos como Desenvolvedor Junior
 
@@ -10,6 +10,8 @@
 
 - C#
 - .NET Framework
+- ASP.NET Core
+- .NET Maui
 - XAML/WPF
 - Blazor
 - Xamarin
