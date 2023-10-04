@@ -4,7 +4,7 @@
 
 - Idade: 25 anos
 - Graduação: Análise e Desenvolvimento de Sistemas
-- Experiência Profissional: 2 anos como Desenvolvedor Junior
+- Experiência Profissional: 2+ anos como Desenvolvedor
 
 ## Habilidades
 
