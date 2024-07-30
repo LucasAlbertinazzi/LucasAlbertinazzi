@@ -2,9 +2,9 @@
 
 ## Informações Pessoais
 
-- Idade: 25 anos
+- Idade: 26 anos
 - Graduação: Análise e Desenvolvimento de Sistemas
-- Experiência Profissional: 2+ anos como Desenvolvedor
+- Experiência Profissional: 3+ anos como Desenvolvedor
 
 ## Habilidades
 
