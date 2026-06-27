@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor com 5 anos de experiência em aplicações mobile, web e desktop, focado em entregar soluções eficientes, escaláveis e com excelente experiência de usuário. Sou formado em Análise e Desenvolvimento de Sistemas e atuei em diversos projetos utilizando tecnologias como .NET MAUI, Xamarin, Blazor, APIs REST e MongoDB. Tenho paixão por escrever código limpo, aplicar boas práticas de arquitetura e resolver problemas do mundo real com tecnologia.
+Desenvolvedor com 6 anos de experiência em aplicações mobile, web e desktop, focado em entregar soluções eficientes, escaláveis e com excelente experiência de usuário. Sou formado em Análise e Desenvolvimento de Sistemas e atuei em diversos projetos utilizando tecnologias como .NET MAUI, Xamarin, Blazor, APIs REST e MongoDB. Tenho paixão por escrever código limpo, aplicar boas práticas de arquitetura e resolver problemas do mundo real com tecnologia.
 
 ## 🛠️ Habilidades Técnicas
 
