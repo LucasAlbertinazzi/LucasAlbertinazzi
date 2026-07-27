@@ -4,7 +4,7 @@
 
 ### Engenheiro de Software Mobile | Flutter | .NET MAUI | Xamarin | C# | ASP.NET Core
 
-Desenvolvedor com **6 anos de experiência** na criação de aplicações **mobile, web e desktop**, com foco em soluções eficientes, escaláveis e com excelente experiência de usuário.
+Desenvolvedor com **5 anos de experiência** na criação de aplicações **mobile, web e desktop**, com foco em soluções eficientes, escaláveis e com excelente experiência de usuário.
 
 </div>
 
