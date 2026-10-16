@@ -15,6 +15,7 @@ Desenvolvo aplicações para Android, iOS, web e desktop, conectando interfaces 
 | **EducaMov** | Gestão municipal de frequência e reembolso estudantil, com aplicativo Flutter, painel web e API Python/FastAPI com PostgreSQL. Fluxos de documentos, aprovação e comunicados. | [Apresentação interativa](https://educamov.com.br/apresentacao/) · [Web e Android](https://github.com/LucasAlbertinazzi/EducaMove-demo) |
 | **Nexo Docente** | Planejamento de aulas e organização de materiais para professores. Flutter, referências BNCC, autenticação, sincronização por conta e integrações de IA e pagamentos no piloto web. | [Aplicação web](https://appnexodocente.com.br/) · [Distribuição](https://github.com/LucasAlbertinazzi/nexo-docente-demo) |
 | **NotaAgora** | Gestão para pequenos comércios e prestadores: clientes, catálogo, orçamentos, vendas, caixa e financeiro. Flutter com Riverpod, SQLite e backend Supabase compartilhado entre app e painel. | [Apresentação](https://lucasalbertinazzi.github.io/notaagora-web/apresentacao/) · [Demonstração web](https://github.com/LucasAlbertinazzi/notaagora-web) |
+| **Gestão 3D** | Gestão e precificação para impressão 3D, com apresentação interativa, simulações de produção, consumo de filamento e OCR local. | [Apresentação pública](https://make-store-gestao.lucasalbertinazzi.chatgpt.site) · [Android de testes](https://github.com/LucasAlbertinazzi/3DMakeStore-Android) |
 
 As demonstrações representam o estágio atual de cada projeto. Os repositórios acima distribuem apresentações e builds públicos; o código dos produtos e os dados operacionais permanecem privados. Recursos de piloto e integrações em homologação estão documentados em cada projeto.
 
@@ -25,8 +26,6 @@ As demonstrações representam o estágio atual de cada projeto. Os repositório
 | [**Processamento em lote — C#/.NET 8**](https://github.com/LucasAlbertinazzi/desafio-bigdatacorp-batch) | Conversão JSONL → CSV por streaming, tolerância a registros inválidos, relacionamento 1:N, escape RFC 4180 e testes automatizados. |
 | [**PlanTask — Next.js/React**](https://github.com/LucasAlbertinazzi/plantask-app) | Protótipo de organização de plantões, pacientes e tarefas, com TypeScript, interface responsiva e estado local. Usa dados demonstrativos fictícios; não é um sistema clínico em produção. |
 | [**CAPY CHAOS — Unity/C#**](https://github.com/LucasAlbertinazzi/capy-chaos) | Protótipo de runner com geração procedural de pista, controles, colisões e interface. A branch de evolução inclui dificuldade, progresso e ranking. |
-
-Também mantenho a [distribuição Android de testes da 3D Make Store](https://github.com/LucasAlbertinazzi/3DMakeStore-Android).
 
 ## Tecnologias e práticas
 
