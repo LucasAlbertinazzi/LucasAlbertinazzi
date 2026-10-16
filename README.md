@@ -25,7 +25,6 @@ As demonstrações representam o estágio atual de cada projeto. Os repositório
 | --- | --- |
 | [**Processamento em lote — C#/.NET 8**](https://github.com/LucasAlbertinazzi/desafio-bigdatacorp-batch) | Conversão JSONL → CSV por streaming, tolerância a registros inválidos, relacionamento 1:N, escape RFC 4180 e testes automatizados. |
 | [**PlanTask — Next.js/React**](https://github.com/LucasAlbertinazzi/plantask-app) | Protótipo de organização de plantões, pacientes e tarefas, com TypeScript, interface responsiva e estado local. Usa dados demonstrativos fictícios; não é um sistema clínico em produção. |
-| [**CAPY CHAOS — Unity/C#**](https://github.com/LucasAlbertinazzi/capy-chaos) | Protótipo de runner com geração procedural de pista, controles, colisões e interface. A branch de evolução inclui dificuldade, progresso e ranking. |
 
 ## Tecnologias e práticas
 
