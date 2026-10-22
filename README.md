@@ -6,7 +6,7 @@
 
 Desenvolvo aplicações para Android, iOS, web e desktop, conectando interfaces responsivas, regras de negócio, APIs e persistência de dados. Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho **5 anos de experiência** em desenvolvimento de software.
 
-[LinkedIn](https://www.linkedin.com/in/LucasAlbertinazzi) · [Projetos](https://github.com/LucasAlbertinazzi?tab=repositories)
+[LinkedIn](www.linkedin.com/in/lucas-albertinazzi) · [Projetos](https://github.com/LucasAlbertinazzi?tab=repositories)
 
 ## Projetos em destaque
 
